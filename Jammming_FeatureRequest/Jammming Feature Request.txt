@@ -1,0 +1,20 @@
+
+Link: https://docs.google.com/document/d/1dY0sNQr3uOHRg25yJTiwlHJxobxZ6OUmx1WR1QLwblM/edit?usp=sharing
+
+
+Jammming Feature Request
+May 29, 2018
+
+OBJECTIVE
+The sample feature request in the Capstone Project section of the course actually “stole my idea”.  In those moments I was clear-headed enough to even think about what I was going to do here, it seemed like the obvious next step for the application would be the ability to retrieve and edit previously created playlists that the Jammming app created once they were submitted and fired off to Spotify. But again, it seems like the sample feature request anticipated that as well.
+That being said, I have no ideas beyond that, for reasons I will get into.
+BACKGROUND 
+This is where I would have created a user story and given on overview of the different use cases for how this feature would behave. 
+TECHNICAL DESIGN
+As I barely understood what was going in in the creation of the baseline Jammming project and have little knowledge about the underlying technical principles based on the limited exposure in the course, there is no possible way I could verbalize what my process in building any new part of it would be. I’m so despondent at this point, I’m thinking this whole thing was a terrible mistake.
+I came from a background that involved preparing static wireframes and mockups, and in some cases applying html/css/js to create web sites, but it may be a long time, if ever, before I understand what it takes to actually build an application. I need to rethink my life.
+CAVEATS
+Here, I would have commented on what the user would have also expected to go along with this feature or would anticipate next. As I have little technical understanding of the way React works, I could have not have presented anything like the issues raised in the sample document about Asynchronous Existing Playlist Save Requests... or whatever.
+Better luck next time, I guess.
+
+
